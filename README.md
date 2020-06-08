@@ -55,7 +55,7 @@ A aplicação sempre estará em processo de melhorias.
 
 ## Contato e Licença
 
-Luiz Henrique – [@LuizHenrique] – luizdesenv01@outlook.com
+Luiz Henrique – [@LuizHenrique1999] – luizdesenv01@outlook.com
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
