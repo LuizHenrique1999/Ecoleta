@@ -2,7 +2,7 @@
 > Aplicação web para registro ou visualização de pontos de coletas de diferentes tipos de lixo.
 
 <h1 align="center">
-  <img src=".github/front-ecoleta.svg" alt="Print da tela principal">
+  <img src="github/front-ecoleta.png" alt="Print da tela principal">
 </h1>
 
 O Ecoleta foi criado utilizando como base os valiosos ensinamentos do instrutor Mayke Brito, através da Next Level Week 1.0 ofericida pela Rocketseat.
