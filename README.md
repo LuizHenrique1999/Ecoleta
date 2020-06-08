@@ -61,7 +61,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 [https://github.com/LuizHenrique1999/Ecoleta](https://github.com/LuizHenrique1999/)
 
-## Contributing
+## Contribuição
 
 1. Faça o _fork_ do projeto
 2. Crie uma _branch_ para sua modificação (`git checkout -b seu-recurso`)
