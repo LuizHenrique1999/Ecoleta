@@ -22,6 +22,7 @@ O Ecoleta além de facilitar a coleta seletiva, também auxilia na conservação
 `CSS`
 `Express`
 `SQLite3`
+`Node.js`
 
 ## Protótipo
 
