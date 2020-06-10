@@ -60,7 +60,6 @@ Luiz Henrique – [@LuizHenrique1999] – luizdesenv01@outlook.com
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
-[https://github.com/LuizHenrique1999/Ecoleta](https://github.com/LuizHenrique1999/)
 
 ## Contribuição
 
